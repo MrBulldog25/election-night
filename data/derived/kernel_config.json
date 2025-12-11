@@ -1,0 +1,31 @@
+{
+  "mode": "composite",
+  "state": "NJ",
+  "shift_kernel_path": "data/derived/swing_kernel.npz",
+  "demo_weights_path": "data/derived/demo_kernel_weights.json",
+  "sigma_path": "data/derived/NJ_composite_kernel.npz",
+  "hyperparams": {
+    "sigma_s2": 0.005,
+    "tau_demo2": 0.04,
+    "tau_shift2": 0.04,
+    "sigma_eps2": 0.0001
+  },
+  "ell_demo": 1.0,
+  "demo_cols": [
+    "Percent White VAP",
+    "Percent Black VAP",
+    "Percent Asian VAP",
+    "Percent Native VAP",
+    "Percent Latino VAP",
+    "Percent High School Attainment",
+    "Percent Bachelors Attainment",
+    "Percent Graduate Attainment",
+    "Percent Senior VAP",
+    "Percent Income <25k Households",
+    "Percent Income 25-50k Households",
+    "Percent Income 50-100k Households",
+    "Percent Income 100-200k Households",
+    "Percent Income >200k Households",
+    "Population Density (Per Square KM)"
+  ]
+}

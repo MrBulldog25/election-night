@@ -1,0 +1,42 @@
+{
+  "demo_cols": [
+    "Percent White VAP",
+    "Percent Black VAP",
+    "Percent Asian VAP",
+    "Percent Native VAP",
+    "Percent Latino VAP",
+    "Percent High School Attainment",
+    "Percent Bachelors Attainment",
+    "Percent Graduate Attainment",
+    "Percent Senior VAP",
+    "Percent Income <25k Households",
+    "Percent Income 25-50k Households",
+    "Percent Income 50-100k Households",
+    "Percent Income 100-200k Households",
+    "Percent Income >200k Households",
+    "Population Density (Per Square KM)"
+  ],
+  "alpha": [
+    0.0,
+    0.4600287122889172,
+    0.2703984146996705,
+    0.0,
+    0.28786890298147044,
+    0.0563961455477012,
+    0.0,
+    0.2877647594526058,
+    0.04434896458116605,
+    0.0,
+    0.0,
+    0.0,
+    0.2987005247908035,
+    0.0,
+    0.9659320229991327
+  ],
+  "lambda_reg": 0.001,
+  "ell_demo": 1.0,
+  "restrict_state": "NJ",
+  "fun": 16.2760586003462,
+  "success": true,
+  "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+}
